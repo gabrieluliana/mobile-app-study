@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.Aora"
+      "package": "com.gazoinc.aora"
     },
     "web": {
       "bundler": "metro",
